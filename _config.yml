@@ -21,7 +21,7 @@ repository               : "Chen-Siqi/Chen-Siqi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.ipg"
   name             : "Siqi"
   pronouns         : # example: "she/her"  
   bio              : "Be a star, with edges and corners, and it will shine."
